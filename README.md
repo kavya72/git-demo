@@ -1,4 +1,4 @@
 # git-demo
-This repo is related to GIT
+This repo is related to GIT Tutorial
 <br>
-Author : Kavya S
+Author : Kavya S (Kedilaya)
